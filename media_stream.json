@@ -18,11 +18,63 @@
       "items": [
         {
           "id": "music_1",
-          "title": "Top Focus LoFi Albums",
+          "title": "Trending Music Album Track",
           "iconName": "musical-notes",
           "accentBg": "#FEF2F2",
           "actionLabel": "Listen on YouTube",
           "targetUrl": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+        }
+      ]
+    },
+    {
+      "headingTitle": "Cinema Showcase",
+      "items": [
+        {
+          "id": "trailer_1",
+          "title": "Movie Trailer Connect",
+          "iconName": "film",
+          "accentBg": "#FFF7ED",
+          "actionLabel": "Watch Trailer",
+          "targetUrl": "https://www.youtube.com/watch?v=d9MyW72ELq0"
+        }
+      ]
+    },
+    {
+      "headingTitle": "Idioms Expression Reels",
+      "items": [
+        {
+          "id": "idiom_1",
+          "title": "Idioms Shorts / Reels",
+          "iconName": "videocam",
+          "accentBg": "#F5F3FF",
+          "actionLabel": "Watch Video",
+          "targetUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ]
+    },
+    {
+      "headingTitle": "English Pronunciation Labs",
+      "items": [
+        {
+          "id": "pronounce_1",
+          "title": "English Pronunciation Shorts / Reels",
+          "iconName": "ear",
+          "accentBg": "#ECFDF5",
+          "actionLabel": "Refine Accent",
+          "targetUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      ]
+    },
+    {
+      "headingTitle": "Career Motivation Drive",
+      "items": [
+        {
+          "id": "motivation_1",
+          "title": "Motivation Shorts / Reels",
+          "iconName": "rocket",
+          "accentBg": "#FFF1F2",
+          "actionLabel": "Get Inspired",
+          "targetUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
         }
       ]
     }
