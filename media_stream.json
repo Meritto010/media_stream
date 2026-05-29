@@ -1,39 +1,39 @@
 {
   "categories": [
     {
-      "headingTitle": "FEATURED STREAMS",
+      "headingTitle": "ENTERTAINMENT & BREAKS",
       "items": [
         {
-          "id": "item1",
-          "title": "Mathrubhumi English News Portal",
-          "iconName": "newspaper-outline",
-          "accentBg": "#EBF5FF",
-          "targetUrl": "https://www.mathrubhumi.com",
-          "actionLabel": "READ UPDATES"
+          "id": "travel1",
+          "title": "Travel Vlogs: Scenic Wonders",
+          "iconName": "airplane-outline",
+          "accentBg": "#E3F2FD",
+          "targetUrl": "https://youtube.com/user/LostLeBlanc",
+          "actionLabel": "WATCH TRAVEL"
         },
         {
-          "id": "item2",
-          "title": "Trending Music Album Track",
+          "id": "music1",
+          "title": "Clear Lyric English Pop",
           "iconName": "musical-notes-outline",
-          "accentBg": "#FFFBF2",
+          "accentBg": "#FFF3E0",
           "targetUrl": "https://youtube.com",
-          "actionLabel": "LISTEN ON YOUTUBE"
+          "actionLabel": "SING ALONG"
         },
         {
-          "id": "item3",
-          "title": "Movie Trailer Connect",
-          "iconName": "film-outline",
-          "accentBg": "#FFF5F5",
-          "targetUrl": "https://youtube.com",
-          "actionLabel": "WATCH TRAILER"
+          "id": "comedy1",
+          "title": "Clean Stand-up Comedy",
+          "iconName": "mic-outline",
+          "accentBg": "#F3E5F5",
+          "targetUrl": "https://www.drybarcomedy.com",
+          "actionLabel": "WATCH COMEDY"
         },
         {
-          "id": "item4",
-          "title": "Idioms Shorts / Reels",
-          "iconName": "videocam-outline",
-          "accentBg": "#F3E8FF",
-          "targetUrl": "https://youtube.com",
-          "actionLabel": "WATCH VIDEO"
+          "id": "news1",
+          "title": "Daily Positive News",
+          "iconName": "happy-outline",
+          "accentBg": "#E8F5E9",
+          "targetUrl": "https://www.goodnewsnetwork.org",
+          "actionLabel": "READ GOOD NEWS"
         }
       ]
     }
