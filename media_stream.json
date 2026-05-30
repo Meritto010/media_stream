@@ -35,6 +35,15 @@
           "targetUrl": "https://youtu.be/Hiw_TUlupSQ",
           "actionLabel": "WATCH VIDEO"
         }
+        {
+  "id": "item5",
+  "title": "The Pursuit Of Happiness: Job interview",
+  "iconName": "film-outline",
+  "accentBg": "#F0F9FF",
+  "targetUrl": "https://youtu.be/UUDKEbX5OQw",
+  "actionLabel": "WATCH VIDEO"
+        }
+
       ]
     }
   ]
