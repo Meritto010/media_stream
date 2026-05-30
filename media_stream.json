@@ -5,42 +5,34 @@
       "items": [
         {
           "id": "item1",
-          "title": "Mathrubhumi English News Portal",
-          "iconName": "newspaper-outline",
-          "accentBg": "#EBF5FF",
-          "targetUrl": "https://www.mathrubhumi.com",
-          "actionLabel": "READ UPDATES"
-        },
-        {
-          "id": "item2",
-          "title": "Trending Music Album Track",
-          "iconName": "musical-notes-outline",
-          "accentBg": "#FFFBF2",
-          "targetUrl": "https://youtube.com",
-          "actionLabel": "LISTEN ON YOUTUBE"
-        },
-        {
-          "id": "item3",
-          "title": "Movie Trailer Connect",
-          "iconName": "film-outline",
-          "accentBg": "#FFF5F5",
-          "targetUrl": "https://youtube.com",
-          "actionLabel": "WATCH TRAILER"
-        },
-        {
-          "id": "item4",
-          "title": "Idioms Shorts / Reels",
+          "title": "The Most Inspiring Scene in Evan Almighty is Opportunity",
           "iconName": "videocam-outline",
-          "accentBg": "#F3E8FF",
-          "targetUrl": "https://youtube.com",
+          "accentBg": "#EBF5FF",
+          "targetUrl": "https://www.youtube.com/watch?v=EQ8Qhq1sZrs",
           "actionLabel": "WATCH VIDEO"
         },
         {
-          "id": "item5",
-          "title": "The Pursuit Of Happiness: Job interview",
+          "id": "item2",
+          "title": "27 Short Grammar Challenges",
+          "iconName": "book-outline",
+          "accentBg": "#FFFBF2",
+          "targetUrl": "https://youtu.be/9_neHUXeQQw",
+          "actionLabel": "LEARN GRAMMAR"
+        },
+        {
+          "id": "item3",
+          "title": "Learn 15 Common English Idioms",
+          "iconName": "chatbubble-ellipses-outline",
+          "accentBg": "#FFF5F5",
+          "targetUrl": "https://youtu.be/HclqADvf35Y",
+          "actionLabel": "LEARN IDIOMS"
+        },
+        {
+          "id": "item4",
+          "title": "Speak English Fluently with Movies",
           "iconName": "film-outline",
-          "accentBg": "#F0F9FF",
-          "targetUrl": "https://youtu.be/UUDKEbX5OQw",
+          "accentBg": "#F3E8FF",
+          "targetUrl": "https://youtu.be/Hiw_TUlupSQ",
           "actionLabel": "WATCH VIDEO"
         }
       ]
