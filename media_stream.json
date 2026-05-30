@@ -1,39 +1,39 @@
 {
   "categories": [
     {
-      "headingTitle": "ENTERTAINMENT & BREAKS",
+      "headingTitle": "FEATURED STREAMS",
       "items": [
         {
-          "id": "travel1",
-          "title": "Travel Vlogs: Scenic Wonders",
-          "iconName": "airplane-outline",
-          "accentBg": "#E3F2FD",
-          "targetUrl": "https://youtube.com/user/LostLeBlanc",
-          "actionLabel": "WATCH TRAVEL"
+          "id": "item1",
+          "title": "The Most Inspiring Scene in Evan Almighty is Opportunity",
+          "iconName": "videocam-outline",
+          "accentBg": "#EBF5FF",
+          "targetUrl": "https://www.youtube.com/watch?v=EQ8Qhq1sZrs",
+          "actionLabel": "WATCH VIDEO"
         },
         {
-          "id": "music1",
-          "title": "Clear Lyric English Pop",
-          "iconName": "musical-notes-outline",
-          "accentBg": "#FFF3E0",
-          "targetUrl": "https://youtube.com",
-          "actionLabel": "SING ALONG"
+          "id": "item2",
+          "title": "27 Short Grammar Challenges",
+          "iconName": "book-outline",
+          "accentBg": "#FFFBF2",
+          "targetUrl": "https://youtu.be/9_neHUXeQQw",
+          "actionLabel": "LEARN GRAMMAR"
         },
         {
-          "id": "comedy1",
-          "title": "Clean Stand-up Comedy",
-          "iconName": "mic-outline",
-          "accentBg": "#F3E5F5",
-          "targetUrl": "https://www.drybarcomedy.com",
-          "actionLabel": "WATCH COMEDY"
+          "id": "item3",
+          "title": "Learn 15 Common English Idioms",
+          "iconName": "chatbubble-ellipses-outline",
+          "accentBg": "#FFF5F5",
+          "targetUrl": "https://youtu.be/HclqADvf35Y",
+          "actionLabel": "LEARN IDIOMS"
         },
         {
-          "id": "news1",
-          "title": "Daily Positive News",
-          "iconName": "happy-outline",
-          "accentBg": "#E8F5E9",
-          "targetUrl": "https://www.goodnewsnetwork.org",
-          "actionLabel": "READ GOOD NEWS"
+          "id": "item4",
+          "title": "Speak English Fluently with Movies",
+          "iconName": "film-outline",
+          "accentBg": "#F3E8FF",
+          "targetUrl": "https://youtu.be/Hiw_TUlupSQ",
+          "actionLabel": "WATCH VIDEO"
         }
       ]
     }
