@@ -5,19 +5,19 @@
       "items": [
         {
           "id": "item1",
-          "title": "Improve Your Communication Skills",
-          "iconName": "mic-outline",
-          "accentBg": "#EBF5FF",
-          "targetUrl": "https://youtu.be/HAnw168huqA",
-          "actionLabel": "LEARN NOW"
-        },
-        {
-          "id": "item2",
           "title": "27 Short Grammar Challenges",
           "iconName": "book-outline",
           "accentBg": "#FFFBF2",
           "targetUrl": "https://youtu.be/9_neHUXeQQw",
           "actionLabel": "LEARN GRAMMAR"
+        },
+        {
+          "id": "item2",
+          "title": "100 Daily Use English Sentences",
+          "iconName": "language-outline",
+          "accentBg": "#F3E8FF",
+          "targetUrl": "https://youtu.be/5MgBikgcWnY",
+          "actionLabel": "SPEAK BETTER"
         },
         {
           "id": "item3",
@@ -29,35 +29,19 @@
         },
         {
           "id": "item4",
-          "title": "100 Daily Use English Sentences",
-          "iconName": "language-outline",
-          "accentBg": "#F3E8FF",
-          "targetUrl": "https://youtu.be/5MgBikgcWnY",
-          "actionLabel": "SPEAK BETTER"
+          "title": "Daily English Conversation Practice",
+          "iconName": "people-outline",
+          "accentBg": "#FFF7ED",
+          "targetUrl": "https://youtu.be/FWI9GEwJNzc?si=AVj4K41Hbfzk-y9w",
+          "actionLabel": "LEARN CONVERSATION"
         },
         {
           "id": "item5",
-          "title": "How to Introduce Yourself Professionally",
-          "iconName": "person-outline",
-          "accentBg": "#F0F9FF",
-          "targetUrl": "https://youtu.be/3WJkQok3GxE",
-          "actionLabel": "LEARN NOW"
-        },
-        {
-          "id": "item6",
-          "title": "Common Pronunciation Mistakes in English",
+          "title": "English Speaking Practice",
           "iconName": "volume-high-outline",
           "accentBg": "#F0FFF4",
-          "targetUrl": "https://youtu.be/sm6PYqvNnZU",
-          "actionLabel": "IMPROVE PRONUNCIATION"
-        },
-        {
-          "id": "item7",
-          "title": "50 Powerful English Words for Daily Use",
-          "iconName": "library-outline",
-          "accentBg": "#FFF7ED",
-          "targetUrl": "https://youtu.be/YJz_c4F8VbE",
-          "actionLabel": "BUILD WORD POWER"
+          "targetUrl": "https://youtu.be/-hWwnV0xnVs?si=iYeZ5x9ov9xw4xF_",
+          "actionLabel": "PRACTICE SPEAKING"
         }
       ]
     }
