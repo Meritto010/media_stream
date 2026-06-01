@@ -5,11 +5,11 @@
       "items": [
         {
           "id": "item1",
-          "title": "The Most Inspiring Scene in Evan Almighty is Opportunity",
-          "iconName": "videocam-outline",
+          "title": "Improve Your Communication Skills",
+          "iconName": "mic-outline",
           "accentBg": "#EBF5FF",
-          "targetUrl": "https://www.youtube.com/watch?v=EQ8Qhq1sZrs",
-          "actionLabel": "WATCH VIDEO"
+          "targetUrl": "https://youtu.be/HAnw168huqA",
+          "actionLabel": "LEARN NOW"
         },
         {
           "id": "item2",
@@ -29,19 +29,35 @@
         },
         {
           "id": "item4",
-          "title": "Speak English Fluently with Movies",
-          "iconName": "film-outline",
+          "title": "100 Daily Use English Sentences",
+          "iconName": "language-outline",
           "accentBg": "#F3E8FF",
-          "targetUrl": "https://youtu.be/Hiw_TUlupSQ",
-          "actionLabel": "WATCH VIDEO"
+          "targetUrl": "https://youtu.be/5MgBikgcWnY",
+          "actionLabel": "SPEAK BETTER"
         },
         {
           "id": "item5",
-          "title": "The Pursuit Of Happiness: Job interview",
-          "iconName": "film-outline",
+          "title": "How to Introduce Yourself Professionally",
+          "iconName": "person-outline",
           "accentBg": "#F0F9FF",
-          "targetUrl": "https://youtu.be/UUDKEbX5OQw",
-          "actionLabel": "WATCH VIDEO"
+          "targetUrl": "https://youtu.be/3WJkQok3GxE",
+          "actionLabel": "LEARN NOW"
+        },
+        {
+          "id": "item6",
+          "title": "Common Pronunciation Mistakes in English",
+          "iconName": "volume-high-outline",
+          "accentBg": "#F0FFF4",
+          "targetUrl": "https://youtu.be/sm6PYqvNnZU",
+          "actionLabel": "IMPROVE PRONUNCIATION"
+        },
+        {
+          "id": "item7",
+          "title": "50 Powerful English Words for Daily Use",
+          "iconName": "library-outline",
+          "accentBg": "#FFF7ED",
+          "targetUrl": "https://youtu.be/YJz_c4F8VbE",
+          "actionLabel": "BUILD WORD POWER"
         }
       ]
     }
