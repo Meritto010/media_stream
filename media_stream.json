@@ -1,33 +1,8 @@
 {
-  "categories": [
-    {
-      "headingTitle": "FEATURED STREAMS",
-      "items": [
-        {
-          "id": "item1",
-          "title": "English Grammar Fundamentals",
-          "iconName": "book-outline",
-          "accentBg": "#FFFBF2",
-          "targetUrl": "https://drive.google.com/uc?export=view&id=1rD8PqzRlk5ZrDatry609wyEY59q_cwMZ",
-          "actionLabel": "LEARN GRAMMAR"
-        },
-        {
-          "id": "item2",
-          "title": "Spoken English Practice",
-          "iconName": "language-outline",
-          "accentBg": "#F3E8FF",
-          "targetUrl": "https://drive.google.com/uc?export=view&id=1uTr-PHytyBJaQzuBfes_DtBAhsmaUM-k",
-          "actionLabel": "IMPROVE SPEAKING"
-        },
-        {
-          "id": "item3",
-          "title": "Communication Skills Essentials",
-          "iconName": "people-outline",
-          "accentBg": "#FFF7ED",
-          "targetUrl": "https://drive.google.com/uc?export=view&id=1TH8_nJdnk0VK7vGY-WvxpyJJA7mi7PwY",
-          "actionLabel": "BUILD CONFIDENCE"
-        }
-      ]
-    }
-  ]
+  "id": "ace_ai_tutor",
+  "title": "ACE Grammar AI Tutor",
+  "targetUrl": "https://notebooklm.google.com/notebook/f7593523-a375-4b6a-aa79-1321d36a7c4b?utm_source=nlmm_share",
+  "iconName": "chatbox-ellipses-outline",
+  "accentBg": "#F0F7FF",
+  "actionLabel": "START TUTOR"
 }
