@@ -1,31 +1,15 @@
 {
   "categories": [
     {
-      "headingTitle": "FEATURED STREAMS",
+      "headingTitle": "TEST STREAM",
       "items": [
         {
           "id": "item1",
-          "title": "English Grammar Fundamentals",
-          "iconName": "book-outline",
-          "accentBg": "#FFFBF2",
-          "targetUrl": "https://drive.google.com/file/d/1rD8PqzRlk5ZrDatry609wyEY59q_cwMZ/view?usp=drivesdk",
-          "actionLabel": "LEARN GRAMMAR"
-        },
-        {
-          "id": "item2",
           "title": "Spoken English Practice",
           "iconName": "language-outline",
           "accentBg": "#F3E8FF",
           "targetUrl": "https://drive.google.com/file/d/1uTr-PHytyBJaQzuBfes_DtBAhsmaUM-k/view?usp=drivesdk",
           "actionLabel": "IMPROVE SPEAKING"
-        },
-        {
-          "id": "item3",
-          "title": "Communication Skills Essentials",
-          "iconName": "people-outline",
-          "accentBg": "#FFF7ED",
-          "targetUrl": "https://drive.google.com/file/d/1TH8_nJdnk0VK7vGY-WvxpyJJA7mi7PwY/view?usp=drivesdk",
-          "actionLabel": "BUILD CONFIDENCE"
         }
       ]
     }
