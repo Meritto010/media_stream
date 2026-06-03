@@ -1,8 +1,17 @@
 {
-  "id": "ace_ai_tutor",
-  "title": "ACE Grammar AI Tutor",
-  "targetUrl": "https://notebooklm.google.com/notebook/f7593523-a375-4b6a-aa79-1321d36a7c4b?utm_source=nlmm_share",
-  "iconName": "chatbox-ellipses-outline",
-  "accentBg": "#F0F7FF",
-  "actionLabel": "START TUTOR"
+  "categories": [
+    {
+      "headingTitle": "AI TOOLS",
+      "items": [
+        {
+          "id": "ace_ai_tutor",
+          "title": "ACE Grammar AI Tutor",
+          "targetUrl": "https://notebooklm.google.com/notebook/f7593523-a375-4b6a-aa79-1321d36a7c4b?utm_source=nlmm_share",
+          "iconName": "chatbox-ellipses-outline",
+          "accentBg": "#F0F7FF",
+          "actionLabel": "START TUTOR"
+        }
+      ]
+    }
+  ]
 }
