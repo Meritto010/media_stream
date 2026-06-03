@@ -8,7 +8,7 @@
           "title": "English Grammar Fundamentals",
           "iconName": "book-outline",
           "accentBg": "#FFFBF2",
-          "targetUrl": "https://abnnfrocwjgtmszfxmcu.supabase.co/storage/v1/object/public/resources/English%20Grammar%20Fundamentals.mp4",
+          "targetUrl": "https://drive.google.com/uc?export=view&id=1rD8PqzRlk5ZrDatry609wyEY59q_cwMZ",
           "actionLabel": "LEARN GRAMMAR"
         },
         {
@@ -16,7 +16,7 @@
           "title": "Spoken English Practice",
           "iconName": "language-outline",
           "accentBg": "#F3E8FF",
-          "targetUrl": "https://abnnfrocwjgtmszfxmcu.supabase.co/storage/v1/object/public/resources/Spoken%20English%20Practice.mp4",
+          "targetUrl": "https://drive.google.com/uc?export=view&id=1uTr-PHytyBJaQzuBfes_DtBAhsmaUM-k",
           "actionLabel": "IMPROVE SPEAKING"
         },
         {
@@ -24,16 +24,8 @@
           "title": "Communication Skills Essentials",
           "iconName": "people-outline",
           "accentBg": "#FFF7ED",
-          "targetUrl": "https://abnnfrocwjgtmszfxmcu.supabase.co/storage/v1/object/public/resources/Communication%20Skills%20Essentials.mp4",
+          "targetUrl": "https://drive.google.com/uc?export=view&id=1TH8_nJdnk0VK7vGY-WvxpyJJA7mi7PwY",
           "actionLabel": "BUILD CONFIDENCE"
-        },
-        {
-          "id": "item4",
-          "title": "Learn 15 Common English Idioms",
-          "iconName": "chatbubble-ellipses-outline",
-          "accentBg": "#FFF5F5",
-          "targetUrl": "https://abnnfrocwjgtmszfxmcu.supabase.co/storage/v1/object/public/resources/Learn%2015%20Common%20English%20Idioms.mp4",
-          "actionLabel": "LEARN IDIOMS"
         }
       ]
     }
