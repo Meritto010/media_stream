@@ -1,15 +1,31 @@
 {
   "categories": [
     {
-      "headingTitle": "AI TOOLS",
+      "headingTitle": "Learning Streams",
       "items": [
         {
-          "id": "ace_ai_tutor",
-          "title": "ACE Grammar AI Tutor",
-          "targetUrl": "https://notebooklm.google.com/notebook/f7593523-a375-4b6a-aa79-1321d36a7c4b?utm_source=nlmm_share",
-          "iconName": "chatbox-ellipses-outline",
-          "accentBg": "#F0F7FF",
-          "actionLabel": "START TUTOR"
+          "id": "vid_001",
+          "title": "Advanced Grammar Lesson",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=EXAMPLE1",
+          "iconName": "play-circle-outline",
+          "accentBg": "#E0F2FE"
+        },
+        {
+          "id": "aud_002",
+          "title": "Speaking Practice Audio",
+          "type": "audio",
+          "url": "https://your-server.com/audio/lesson2.mp3",
+          "iconName": "headset-outline",
+          "accentBg": "#FEF2F2"
+        },
+        {
+          "id": "doc_003",
+          "title": "Reading Comprehension PDF",
+          "type": "pdf",
+          "url": "https://raw.githubusercontent.com/path/to/doc.pdf",
+          "iconName": "document-text-outline",
+          "accentBg": "#F0FDF4"
         }
       ]
     }
