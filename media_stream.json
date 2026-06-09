@@ -1,31 +1,46 @@
 {
   "categories": [
     {
-      "headingTitle": "Learning Streams",
+      "categoryKey": "fluency",
+      "headingTitle": "Fluency Mastery",
       "items": [
         {
-          "id": "vid_001",
-          "title": "Advanced Grammar Lesson",
+          "id": "flu_001",
+          "title": "Natural Linking & Rhythm",
           "type": "video",
-          "url": "https://www.youtube.com/watch?v=EXAMPLE1",
-          "iconName": "play-circle-outline",
+          "url": "https://your-server.com/fluency/linking.mp4",
+          "iconName": "fast-forward-outline",
           "accentBg": "#E0F2FE"
         },
         {
-          "id": "aud_002",
-          "title": "Speaking Practice Audio",
+          "id": "flu_002",
+          "title": "Conversational Fillers",
           "type": "audio",
-          "url": "https://your-server.com/audio/lesson2.mp3",
-          "iconName": "headset-outline",
+          "url": "https://your-server.com/fluency/fillers.mp3",
+          "iconName": "mic-outline",
           "accentBg": "#FEF2F2"
-        },
+        }
+      ]
+    },
+    {
+      "categoryKey": "pronunciation",
+      "headingTitle": "Pronunciation Lab",
+      "items": [
         {
-          "id": "doc_003",
-          "title": "Reading Comprehension PDF",
+          "id": "pro_001",
+          "title": "Mastering IPA Vowels",
           "type": "pdf",
-          "url": "https://raw.githubusercontent.com/path/to/doc.pdf",
+          "url": "https://your-server.com/pronunciation/ipa-guide.pdf",
           "iconName": "document-text-outline",
           "accentBg": "#F0FDF4"
+        },
+        {
+          "id": "pro_002",
+          "title": "Minimal Pairs Practice",
+          "type": "audio",
+          "url": "https://your-server.com/pronunciation/pairs.mp3",
+          "iconName": "headset-outline",
+          "accentBg": "#FEF2F2"
         }
       ]
     }
