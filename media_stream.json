@@ -1,46 +1,39 @@
 {
   "categories": [
     {
-      "categoryKey": "fluency",
-      "headingTitle": "Fluency Mastery",
+      "headingTitle": "FEATURED STREAMS",
       "items": [
         {
-          "id": "flu_001",
-          "title": "Natural Linking & Rhythm",
-          "type": "video",
-          "url": "https://your-server.com/fluency/linking.mp4",
-          "iconName": "fast-forward-outline",
-          "accentBg": "#E0F2FE"
+          "id": "item1",
+          "title": "Mathrubhumi English News Portal",
+          "iconName": "newspaper-outline",
+          "accentBg": "#EBF5FF",
+          "targetUrl": "https://www.mathrubhumi.com",
+          "actionLabel": "READ UPDATES"
         },
         {
-          "id": "flu_002",
-          "title": "Conversational Fillers",
-          "type": "audio",
-          "url": "https://your-server.com/fluency/fillers.mp3",
-          "iconName": "mic-outline",
-          "accentBg": "#FEF2F2"
-        }
-      ]
-    },
-    {
-      "categoryKey": "pronunciation",
-      "headingTitle": "Pronunciation Lab",
-      "items": [
-        {
-          "id": "pro_001",
-          "title": "Mastering IPA Vowels",
-          "type": "pdf",
-          "url": "https://your-server.com/pronunciation/ipa-guide.pdf",
-          "iconName": "document-text-outline",
-          "accentBg": "#F0FDF4"
+          "id": "item2",
+          "title": "Trending Music Album Track",
+          "iconName": "musical-notes-outline",
+          "accentBg": "#FFFBF2",
+          "targetUrl": "https://youtube.com",
+          "actionLabel": "LISTEN ON YOUTUBE"
         },
         {
-          "id": "pro_002",
-          "title": "Minimal Pairs Practice",
-          "type": "audio",
-          "url": "https://your-server.com/pronunciation/pairs.mp3",
-          "iconName": "headset-outline",
-          "accentBg": "#FEF2F2"
+          "id": "item3",
+          "title": "Movie Trailer Connect",
+          "iconName": "film-outline",
+          "accentBg": "#FFF5F5",
+          "targetUrl": "https://youtube.com",
+          "actionLabel": "WATCH TRAILER"
+        },
+        {
+          "id": "item4",
+          "title": "Idioms Shorts / Reels",
+          "iconName": "videocam-outline",
+          "accentBg": "#F3E8FF",
+          "targetUrl": "https://youtube.com",
+          "actionLabel": "WATCH VIDEO"
         }
       ]
     }
