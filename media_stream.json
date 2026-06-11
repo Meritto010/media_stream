@@ -8,32 +8,32 @@
           "title": "Mathrubhumi English News Portal",
           "iconName": "newspaper-outline",
           "accentBg": "#EBF5FF",
-          "targetUrl": "https://www.mathrubhumi.com",
-          "actionLabel": "READ UPDATES"
+          "type": "web",
+          "url": "https://www.mathrubhumi.com"
         },
         {
           "id": "item2",
           "title": "Trending Music Album Track",
           "iconName": "musical-notes-outline",
           "accentBg": "#FFFBF2",
-          "targetUrl": "https://youtube.com",
-          "actionLabel": "LISTEN ON YOUTUBE"
+          "type": "web",
+          "url": "https://youtube.com"
         },
         {
           "id": "item3",
           "title": "Movie Trailer Connect",
           "iconName": "film-outline",
           "accentBg": "#FFF5F5",
-          "targetUrl": "https://youtube.com",
-          "actionLabel": "WATCH TRAILER"
+          "type": "video",
+          "url": "https://youtube.com"
         },
         {
           "id": "item4",
           "title": "Idioms Shorts / Reels",
           "iconName": "videocam-outline",
           "accentBg": "#F3E8FF",
-          "targetUrl": "https://youtube.com",
-          "actionLabel": "WATCH VIDEO"
+          "type": "video",
+          "url": "https://youtube.com"
         }
       ]
     }
