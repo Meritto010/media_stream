@@ -34,6 +34,14 @@
           "accentBg": "#F3E8FF",
           "type": "video",
           "url": "https://youtube.com/shorts/6uDFX9mruLM"
+        },
+        {
+          "id": "item5",
+          "title": "Speak Naturally About Yourself",
+          "iconName": "videocam-outline",
+          "accentBg": "#E8F5E9",
+          "type": "video",
+          "url": "https://youtu.be/BXcxP55-ghk"
         }
       ]
     }
