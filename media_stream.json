@@ -1,39 +1,39 @@
 {
   "categories": [
     {
-      "headingTitle": "FEATURED STREAMS",
+      "headingTitle": "LANGUAGE & COMMUNICATION SKILLS",
       "items": [
         {
           "id": "item1",
-          "title": "Mathrubhumi English News Portal",
-          "iconName": "newspaper-outline",
+          "title": "15 Essential Daily English Sentences",
+          "iconName": "document-text-outline",
           "accentBg": "#EBF5FF",
           "type": "web",
-          "url": "https://www.mathrubhumi.com"
+          "url": "https://drive.google.com/file/d/1TH8_nJdnk0VK7vGY-WvxpyJJA7mi7PwY/view"
         },
         {
           "id": "item2",
-          "title": "Trending Music Album Track",
-          "iconName": "musical-notes-outline",
+          "title": "27 Short Grammar Challenges",
+          "iconName": "document-text-outline",
           "accentBg": "#FFFBF2",
           "type": "web",
-          "url": "https://youtube.com"
+          "url": "https://drive.google.com/file/d/1rD8PqzRlk5ZrDatry609wyEY59q_cwMZ/view"
         },
         {
           "id": "item3",
-          "title": "Movie Trailer Connect",
-          "iconName": "film-outline",
+          "title": "Learn 15 Common English Idioms",
+          "iconName": "document-text-outline",
           "accentBg": "#FFF5F5",
-          "type": "video",
-          "url": "https://youtube.com"
+          "type": "web",
+          "url": "https://drive.google.com/file/d/1uTr-PHytyBJaQzuBfes_DtBAhsmaUM-k/view"
         },
         {
           "id": "item4",
-          "title": "Idioms Shorts / Reels",
+          "title": "Other Ways To Say \"Congratulations\"",
           "iconName": "videocam-outline",
           "accentBg": "#F3E8FF",
           "type": "video",
-          "url": "https://youtube.com"
+          "url": "https://youtube.com/shorts/6uDFX9mruLM"
         }
       ]
     }
